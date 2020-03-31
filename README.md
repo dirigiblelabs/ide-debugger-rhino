@@ -5,6 +5,8 @@
 
 ***Note:** This plugin is compatible only with the Mozila Rhino JS engine*
 
+***Note:** Original repository: https://github.com/dirigiblelabs/ide-debugger/tree/rhino*
+
 # Overview
 
 Debugger Plugins for the [Eclipse Dirigible](https://github.com/eclipse/dirigible) WebIDE v3.x and above.
